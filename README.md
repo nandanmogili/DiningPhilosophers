@@ -16,8 +16,8 @@ Each philosopher is modeled as a **thread** that alternates between **thinking**
 
 ## Files
 - **`DiningPhilosophers.java`** - Main execution class that initializes philosophers and forks.
-- **`Fork.java`** - Represents a fork with lock-based control.
-- **`Philosopher.java`** - Implements a philosopher as a thread.
+- **`Fork.class`** - Represents a fork with lock-based control.
+- **`Philosopher.class`** - Implements a philosopher as a thread.
 
 ## How to Run
 ### 1. Compile the Java Files
