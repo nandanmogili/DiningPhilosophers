@@ -1,5 +1,5 @@
 # Dining Philosophers Problem - Java Implementation
-Team Members: Nandan Mogili, Sreekar Kompella, Karthik Konuru
+Team Members: Nandan Mogili and Sreekar Kompella
 
 ## Overview
 This project provides a solution to the classic **Dining Philosophers Problem** using **Java threads and locks**. The solution ensures that:
